@@ -1,0 +1,29 @@
+img {border-radius:18px}
+img.center{
+display:block;
+margin-left: auto;
+margin-rigth: auto;
+}
+.centrado{ magin:10px auto;
+display:block}
+#cabecera
+{ background-color:#2ac2ff ;}
+
+
+#barranavegacion{
+    background-color:#3c49f0;
+   
+}
+								
+		
+#barralateral{background-color:#60f050;
+float:left;}		
+
+#sectorprincipal{background-color:#f0a826;}
+#pieprincipal{background-color:#eaf000;}
+	
+li{background-color:yellow;
+    display:inline;
+}			
+		
+		
