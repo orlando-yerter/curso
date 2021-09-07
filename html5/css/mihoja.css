@@ -1,10 +1,10 @@
-t.img {border-radius:18px}
+img {border-radius:18px}
 img.center{
 display:block;
 margin-left: auto;
 margin-rigth: auto;
 }
-.centrado{ magin:10px auto;
+.centrado{ magin:10px auto
 display:block}
 #cabecera
 { background-color:#2ac2ff ;}
